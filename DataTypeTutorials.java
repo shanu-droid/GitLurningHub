@@ -8,6 +8,7 @@ public class DataTypeTutorials {
 		double second = 3.17537831946;
 		float rate = 2.3f;
 		System.out.println(rate);
+		System.out.println(x);
 
 	}
 
